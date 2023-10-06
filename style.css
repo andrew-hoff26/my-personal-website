@@ -1,11 +1,28 @@
 body {
-    background: whitesmoke;
+    background: gray;
     margin= auto
 }
-h1 + p {
-    text-align: center;    
+h1 {
+    text-align: center;
+    color: blue;
 }
-.sad-cat {
-    display: block;
-    margin: 0;
+h1 + p {
+    text-align: center;
+    color: maroon; 
+    font-size: 20px;
+}
+#link-list {
+    text-align: center;
+}
+#timmys-dad {
+    text-align: center;
+}
+#sad-cat {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+#bottom-text {
+    text-align: center;
 }
