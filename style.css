@@ -5,3 +5,7 @@ body {
 h1 + p {
     text-align: center;    
 }
+.sad-cat {
+    display: block;
+    margin: 0;
+}
